@@ -130,6 +130,6 @@ hr {
   text-decoration: none;
 }
 
-.link {
-  
+.my-link {
+  text-decoration: underlined;
 }
