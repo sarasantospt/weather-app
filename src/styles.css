@@ -132,4 +132,6 @@ hr {
 
 .my-link {
   text-decoration: underlined;
+  margin-left: -14px;
+  font-size: 18px;
 }
