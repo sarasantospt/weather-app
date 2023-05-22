@@ -117,7 +117,13 @@ hr {
 }
 
 #date {
-  font-size: 30px;
+  font-size: 20px;
+}
+
+.updated {
+  font-size: 20px;
+  font-weight: 200;
+  padding-top: 0px;
 }
 
 #celsius-link {
