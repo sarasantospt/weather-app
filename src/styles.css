@@ -1,5 +1,5 @@
 body {
-  background-image: url("https://s3.amazonaws.com/shecodesio-production/uploads/files/000/082/847/original/sky.jpg?1684847696");
+  background-image: url("https://s3.amazonaws.com/shecodesio-production/uploads/files/000/082/862/original/pexels-photo-4784393.jpeg?1684849139");
   background-position: center center;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -90,7 +90,7 @@ li {
 }
 
 .units {
-  font-size: 15px;
+  font-size: 30px;
   font-weight: 400;
   position: relative;
   top: -25px;
@@ -132,7 +132,11 @@ hr {
 }
 
 .my-link {
-  text-decoration: underlined;
+  text-decoration: none;
+  color: blue;
+}
+
+small {
   margin-right: -14px;
-  font-size: 15px;
+  font-size: 16px;
 }
