@@ -12,8 +12,8 @@ body {
   margin: 0 auto;
   padding: 15px 60px;
   border-radius: 15px;
-  margin-top: 40px;
-  margin-bottom: 40px;
+  margin-top: 70px;
+  margin-bottom: 70px;
   backdrop-filter: blur(7px);
   -webkit-backdrop-filter: blur(8px);
   background-position: center center;
@@ -83,9 +83,6 @@ li {
   font-size: 70px;
   font-weight: 500;
   padding-top: 10px;
-}
-
-#humidity {
 }
 
 #current-location {
