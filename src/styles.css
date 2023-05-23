@@ -1,5 +1,5 @@
 body {
-  background-image: url("https://s3.amazonaws.com/shecodesio-production/uploads/files/000/082/862/original/pexels-photo-4784393.jpeg?1684849139");
+  background-image: url("https://s3.amazonaws.com/shecodesio-production/uploads/files/000/082/878/original/ezgif-5-4e2fab3972.jpg?1684852255");
   background-position: center center;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -133,7 +133,6 @@ hr {
 
 .my-link {
   text-decoration: none;
-  color: blue;
 }
 
 small {
