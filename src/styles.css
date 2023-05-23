@@ -1,5 +1,5 @@
 body {
-  background-image: url("https://s3.amazonaws.com/shecodesio-production/uploads/files/000/082/773/original/updated.jpeg?1684753691");
+  background-image: url("https://s3.amazonaws.com/shecodesio-production/uploads/files/000/082/847/original/sky.jpg?1684847696");
   background-position: center center;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -73,7 +73,7 @@ li {
 
 #description {
   margin-top: 0px;
-  font-size: 25px;
+  font-size: 30px;
   font-weight: 600;
   padding-top: 20px;
 }
@@ -90,7 +90,7 @@ li {
 }
 
 .units {
-  font-size: 20px;
+  font-size: 15px;
   font-weight: 400;
   position: relative;
   top: -25px;
