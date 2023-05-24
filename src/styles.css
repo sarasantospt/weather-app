@@ -75,7 +75,7 @@ li {
   margin-top: 0px;
   font-size: 30px;
   font-weight: 600;
-  padding-top: 20px;
+  margin-top: 0px;
 }
 
 .temperature {
@@ -97,9 +97,10 @@ li {
 }
 
 hr {
-  border-top: 5px solid rgb(177, 69, 105);
-  border-radius: 5px;
-  margin-top: 0px;
+  border-top: 4px solid rgb(177, 69, 105);
+  border-radius: 4px;
+  margin-bottom: 0px;
+  height: 0px;
 }
 
 .weather-form {
@@ -124,6 +125,7 @@ hr {
   font-size: 25px;
   font-weight: 200;
   padding-top: 10px;
+  margin-top: 0px;
 }
 
 #celsius-link {
@@ -133,6 +135,7 @@ hr {
 
 .my-link {
   text-decoration: none;
+  font-size: 15px;
 }
 
 .weather-forecast {
