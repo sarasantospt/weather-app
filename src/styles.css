@@ -97,7 +97,7 @@ li {
 }
 
 hr {
-  border-top: 5px solid blue;
+  border-top: 5px solid rgb(177, 69, 105);
   border-radius: 5px;
   margin-top: 0px;
 }
@@ -133,6 +133,17 @@ hr {
 
 .my-link {
   text-decoration: none;
+}
+
+.weather-forecast {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.forecast-date {
+  font-size: 16px;
+}
+
 }
 
 small {
