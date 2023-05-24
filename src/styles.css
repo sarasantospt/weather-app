@@ -149,6 +149,10 @@ hr {
   height: 140px;
 }
 
+.temp-min {
+  opacity: 0.5;
+}
+
 small {
   margin-right: -14px;
   font-size: 16px;
