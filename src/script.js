@@ -53,6 +53,10 @@ function displayForecast() {
   console.log(forecastHTML);
 }
 
+function getForecast(coordinates) {
+  console.log(coordinates);
+}
+
 function showWeatherForecast(response) {
   document.querySelector("#city").innerHTML = response.data.name;
   document.querySelector("#temperature").innerHTML = Math.round(
@@ -73,6 +77,8 @@ function showWeatherForecast(response) {
   );
 
   iconElement.setAttribute("alt", response.data.weather[0].description);
+
+  getForecast(response.data.coord);
 }
 
 function searchCity(city) {
