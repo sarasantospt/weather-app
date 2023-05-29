@@ -102,6 +102,7 @@ hr {
   border-radius: 4px;
   margin-bottom: 0px;
   height: 0px;
+  margin-top: -12px;
 }
 
 .weather-form {
