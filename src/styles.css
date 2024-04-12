@@ -13,7 +13,7 @@ body {
   padding: 15px 60px;
   border-radius: 15px;
   margin-top: 70px;
-  margin-bottom: 70px;
+  margin-bottom: 15px;
   backdrop-filter: blur(7px);
   -webkit-backdrop-filter: blur(8px);
   background-position: center center;
@@ -160,5 +160,11 @@ hr {
 
 small {
   margin-right: -14px;
-  font-size: 16px;
+  font-size: 18px;
+}
+
+footer {
+  text-align: center;
+  font-size: 14px;
+  margin-top: 0px;
 }
